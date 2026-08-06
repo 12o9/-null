@@ -1,27 +1,4 @@
-From: <Saved by Blink>
-Snapshot-Content-Location: https://small.oisd.nl/
-Subject: 
-Date: Thu, 6 Aug 2026 15:52:55 +0800
-MIME-Version: 1.0
-Content-Type: multipart/related;
-	type="text/html";
-	boundary="----MultipartBoundary--OZ03wlHJPy6G8QAHaj4NWm5Hr15waFeUnsXP3FC9tm----"
-
-
-------MultipartBoundary--OZ03wlHJPy6G8QAHaj4NWm5Hr15waFeUnsXP3FC9tm----
-Content-Type: text/html
-Content-ID: <frame-62F4F027F0BB5BB462F14CB060D9A188@mhtml.blink>
-Content-Transfer-Encoding: quoted-printable
-Content-Location: https://small.oisd.nl/
-
-<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
-=3Dwindows-1252"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css=
--128ceb20-e485-49c0-80d4-00baa4f43dce@mhtml.blink" /><link rel=3D"styleshee=
-t" type=3D"text/css" href=3D"cid:css-5b0e1ba4-5cce-402e-90b4-288a0e29d427@m=
-html.blink" /><meta name=3D"color-scheme" content=3D"light dark"><link id=
-=3D"via_inject_css_blocker" type=3D"text/css" rel=3D"stylesheet" href=3D"ht=
-tps://small.oisd.nl/via_inject_blocker.css"></head><body><pre style=3D"word=
--wrap: break-word; white-space: pre-wrap;">[Adblock Plus]
+[Adblock Plus]
 ! Version: 202608060206
 ! Title: oisd small
 ! Description: Block. Don't break.
@@ -56430,54 +56407,4 @@ o^
 ||zzyqkeniw.com^
 ||zzyxhvqjjtgxj.online^
 ||zzzjhkyprpsvl.store^
-||zzzmjfixezere.site^</pre></body></html>
-------MultipartBoundary--OZ03wlHJPy6G8QAHaj4NWm5Hr15waFeUnsXP3FC9tm----
-Content-Type: text/css
-Content-Transfer-Encoding: quoted-printable
-Content-Location: https://small.oisd.nl/via_inject_blocker.css
-
-@charset "windows-1252";
-=0A
-------MultipartBoundary--OZ03wlHJPy6G8QAHaj4NWm5Hr15waFeUnsXP3FC9tm----
-Content-Type: text/css
-Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-5b0e1ba4-5cce-402e-90b4-288a0e29d427@mhtml.blink
-
-@charset "windows-1252";
-=0A
-------MultipartBoundary--OZ03wlHJPy6G8QAHaj4NWm5Hr15waFeUnsXP3FC9tm----
-Content-Type: text/css
-Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-128ceb20-e485-49c0-80d4-00baa4f43dce@mhtml.blink
-
-@charset "windows-1252";
-
-html { scroll-behavior: auto !important; }
-
-*, ::before, ::after { font-family: system-ui !important; font-weight: init=
-ial !important; font-style: initial !important; animation: auto ease 0s 1 n=
-ormal none running none !important; transition: none !important; filter: no=
-ne !important; backdrop-filter: none !important; box-shadow: none !importan=
-t; text-shadow: none !important; mix-blend-mode: normal !important; will-ch=
-ange: auto !important; }
-
-svg, svg * { filter: none !important; }
-
-img, video, canvas { filter: none !important; }
-
-:not(img):not(video):not(canvas):not(svg) { background-image: none !importa=
-nt; }
-
-* { border-radius: 0px !important; }
-
-body { background: rgb(255, 255, 255) !important; color: rgb(0, 0, 0) !impo=
-rtant; }
-
-header, nav { backdrop-filter: none !important; }
-
-[class*=3D"overlay"], [id*=3D"overlay"], [class*=3D"backdrop"], [id*=3D"bac=
-kdrop"], [role=3D"dialog"] { backdrop-filter: none !important; }
-
-::selection { background: rgb(188, 220, 255) !important; color: rgb(0, 0, 0=
-) !important; }
-------MultipartBoundary--OZ03wlHJPy6G8QAHaj4NWm5Hr15waFeUnsXP3FC9tm------
+||zzzmjfixezere.site^
