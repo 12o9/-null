@@ -1,4 +1,4 @@
-! [Adblock Plus 2.0]
+[Adblock Plus 2.0]
 ! Expires: 1 day
 ! Issue tracker: https://github.com/ph00lt0/blocklist
 ! Homepage: https://github.com/ph00lt0/blocklist
@@ -33814,4 +33814,4 @@ ithout
 ||www-roblox.pw^
 ||zblox.shop^
 ||clarksdalecollegiate.org^
-||cryprecovery.com^
+||cryprecovery.com^
